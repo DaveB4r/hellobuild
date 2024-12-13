@@ -20,6 +20,7 @@ This is an exercise for candidates applying as Software Developers at HelloBuild
   - cd frontend.
   - npm install.
   - npm run dev
+  - visit http://localhost:5173
 4. Sign up in the app
 5. Login with the credentials
 6. Grant Github permissions to get an Oauth token
